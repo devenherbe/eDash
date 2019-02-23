@@ -1,4 +1,3 @@
 function helloWorld(message) {
-
-    console.log('The user says:' message)
+    console.log('The user says: ' +message)
 }
